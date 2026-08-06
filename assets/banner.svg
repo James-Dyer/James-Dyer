@@ -1,0 +1,18 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#0c0c0c"/>
+
+  <!-- corner brackets, echoing the card frame on james-dyer.github.io -->
+  <path d="M40 30 L40 60 M40 30 L70 30" stroke="#c9a86c" stroke-width="1" fill="none" opacity="0.6"/>
+  <path d="M1160 230 L1160 200 M1160 230 L1130 230" stroke="#c9a86c" stroke-width="1" fill="none" opacity="0.6"/>
+
+  <!-- diamond accent -->
+  <rect x="72" y="118" width="22" height="22" fill="#c9a86c" opacity="0.85" transform="rotate(45 83 129)"/>
+
+  <text x="130" y="150" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="72" fill="#f5f5f5">James Dyer</text>
+
+  <text x="132" y="188" font-family="Helvetica, Arial, sans-serif" font-size="17" letter-spacing="2" fill="#c9a86c">SOFTWARE ENGINEER</text>
+
+  <text x="132" y="214" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#969696">Backend engineering &#183; Cloud infrastructure &#183; Applied AI</text>
+
+  <line x1="130" y1="228" x2="480" y2="228" stroke="#c9a86c" stroke-width="1" opacity="0.4"/>
+</svg>
