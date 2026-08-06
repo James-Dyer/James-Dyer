@@ -4,7 +4,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-james--dyer.github.io-c9a86c?style=flat-square&labelColor=0c0c0c)](https://james-dyer.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-james--dyer.github.io-c9a86c?style=flat-square&labelColor=0c0c0c)](https://james-dyer.github.io/portfolio-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamesthedyer-c9a86c?style=flat-square&labelColor=0c0c0c&logo=linkedin&logoColor=c9a86c)](https://www.linkedin.com/in/jamesthedyer/)
 [![Email](https://img.shields.io/badge/Email-james.dyer.dyer%40gmail.com-c9a86c?style=flat-square&labelColor=0c0c0c&logo=gmail&logoColor=c9a86c)](mailto:james.dyer.dyer@gmail.com)
 
