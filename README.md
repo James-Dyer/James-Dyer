@@ -4,9 +4,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-james--dyer.github.io-c9a86c?style=flat-square&labelColor=0c0c0c)](https://james-dyer.github.io/portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamesthedyer-c9a86c?style=flat-square&labelColor=0c0c0c&logo=linkedin&logoColor=c9a86c)](https://www.linkedin.com/in/jamesthedyer/)
-[![Email](https://img.shields.io/badge/Email-james.dyer.dyer%40gmail.com-c9a86c?style=flat-square&labelColor=0c0c0c&logo=gmail&logoColor=c9a86c)](mailto:james.dyer.dyer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-3f3c37?style=flat-square&logo=googlechrome&logoColor=f1ede3)](https://james-dyer.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3f3c37?style=flat-square&logo=linkedin&logoColor=f1ede3)](https://www.linkedin.com/in/jamesthedyer/)
+[![Email](https://img.shields.io/badge/-EMAIL-3f3c37?style=flat-square&logo=gmail&logoColor=f1ede3)](mailto:james.dyer.dyer@gmail.com)
 
 New graduate software engineer specializing in backend, full-stack, and AI systems.
 
