@@ -20,6 +20,7 @@ New graduate software engineer specializing in backend, full-stack, and AI syste
 |---|---|
 | **[macroTracker](https://github.com/James-Dyer/macro-tracker)** · **[Live app](https://james-dyer.github.io/macro-tracker/)** | AI-powered nutrition tracker that turns meal photos into structured macro data. Full-stack, live product with a serverless multimodal AI pipeline.<br>`React 19` `TypeScript` `Supabase` `PostgreSQL` `Gemini API` |
 | **[Software Engineering Tutor](https://github.com/James-Dyer/cse108-final)** | Guided learning platform with an in-browser Python IDE and LLM-driven, assignment-aware hints. One of three A+ final projects in UC Merced's full-stack course.<br>`React` `Flask` `PostgreSQL` `Pyodide` |
+| **[Lambda Delta Chapter Website](https://github.com/James-Dyer/lambda-delta-chapter-website)** · **[Archived site](https://james-dyer.github.io/lambda-delta-chapter-website/)** | Production chapter website built and maintained from its initial release, including real-time fundraising leaderboards used by 150+ event participants.<br>`React 19` `JavaScript` `Framer Motion` `Vitest` |
 | **[L-Game](https://github.com/James-Dyer/L-game)** | Reimplementation of Edward de Bono's L-Game with human, agent, and agent-vs-agent play using minimax, alpha-beta pruning, and heuristic state evaluation.<br>`Python 3` `Game-tree search` |
 
 <br>
