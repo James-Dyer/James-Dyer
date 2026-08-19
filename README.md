@@ -8,23 +8,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamesthedyer-c9a86c?style=flat-square&labelColor=0c0c0c&logo=linkedin&logoColor=c9a86c)](https://www.linkedin.com/in/jamesthedyer/)
 [![Email](https://img.shields.io/badge/Email-james.dyer.dyer%40gmail.com-c9a86c?style=flat-square&labelColor=0c0c0c&logo=gmail&logoColor=c9a86c)](mailto:james.dyer.dyer@gmail.com)
 
+New graduate software engineer specializing in backend, full-stack, and AI systems.
+
 </div>
 
 <br>
 
-### Recent projects
+### Featured projects
 
 | | |
 |---|---|
-| **[macroTracker](https://github.com/James-Dyer/macro-tracker)** | AI-powered nutrition tracker that turns meal photos into structured macro data. Full-stack, live product with a serverless multimodal AI pipeline.<br>`React 19` `TypeScript` `Supabase` `PostgreSQL` `Gemini API` |
+| **[macroTracker](https://github.com/James-Dyer/macro-tracker)** · **[Live app](https://james-dyer.github.io/macro-tracker/)** | AI-powered nutrition tracker that turns meal photos into structured macro data. Full-stack, live product with a serverless multimodal AI pipeline.<br>`React 19` `TypeScript` `Supabase` `PostgreSQL` `Gemini API` |
 | **[Software Engineering Tutor](https://github.com/James-Dyer/cse108-final)** | Guided learning platform with an in-browser Python IDE and LLM-driven, assignment-aware hints. One of three A+ final projects in UC Merced's full-stack course.<br>`React` `Flask` `PostgreSQL` `Pyodide` |
-| **[L-Game](https://github.com/James-Dyer/L-game)** | Reimplementation of Edward de Bono's L-Game with human, agent, and agent-vs-agent play, using search-based state evaluation.<br>`Python 3` `Game-tree search` |
+| **[L-Game](https://github.com/James-Dyer/L-game)** | Reimplementation of Edward de Bono's L-Game with human, agent, and agent-vs-agent play using minimax, alpha-beta pruning, and heuristic state evaluation.<br>`Python 3` `Game-tree search` |
 
 <br>
 
 ### Experience
 
-- **Capstone Team Lead**, E. & J. Gallo Winery — led a 5-person team building a computer vision system for factory part-wear measurement (<0.5mm error); OpenCV calibration pipeline, operator-facing desktop app, CI + 29 automated tests
+- **Capstone Team Lead**, E. & J. Gallo Winery — led a 5-person team building a computer vision system for factory part-wear measurement (<0.5mm mean absolute error); built the OpenCV calibration pipeline and operator-facing desktop app; owned CI infrastructure that ran the team's 29-test suite
 - **Software Engineering Intern**, Mimic — built a Python integration-testing platform provisioning GCP infra, migrated cybersecurity engines to Rust-compiled WASM, resolved concurrency logging bugs in production Go services
 - **Web Developer**, Sigma Chi (Lambda Delta) — built a React app with a real-time fundraising leaderboard used by 150+ participants
 
@@ -48,5 +50,5 @@
 <br>
 
 <div align="center">
-<sub>Full case studies, screenshots, and writeups on <a href="https://james-dyer.github.io">james-dyer.github.io</a></sub>
+<sub>Full case studies, screenshots, and writeups on <a href="https://james-dyer.github.io/portfolio-website/">james-dyer.github.io/portfolio-website</a></sub>
 </div>
