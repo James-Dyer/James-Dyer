@@ -39,7 +39,6 @@ New graduate software engineer specializing in backend, full-stack, and AI syste
 
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python&logoColor=c9a86c)
 ![Go](https://img.shields.io/badge/-Go-0c0c0c?style=flat-square&logo=go&logoColor=c9a86c)
-![Rust](https://img.shields.io/badge/-Rust-0c0c0c?style=flat-square&logo=rust&logoColor=c9a86c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0c0c0c?style=flat-square&logo=typescript&logoColor=c9a86c)
 ![React](https://img.shields.io/badge/-React-0c0c0c?style=flat-square&logo=react&logoColor=c9a86c)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0c0c0c?style=flat-square&logo=postgresql&logoColor=c9a86c)
