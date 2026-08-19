@@ -1,18 +1,56 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="260" fill="#0c0c0c"/>
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">James Dyer — Software Engineer</title>
+  <desc id="desc">An ivory letterpress-style business card for James Dyer, a software engineer specializing in backend, full-stack, and AI systems.</desc>
 
-  <!-- corner brackets, echoing the card frame on james-dyer.github.io -->
-  <path d="M40 30 L40 60 M40 30 L70 30" stroke="#c9a86c" stroke-width="1" fill="none" opacity="0.6"/>
-  <path d="M1160 230 L1160 200 M1160 230 L1130 230" stroke="#c9a86c" stroke-width="1" fill="none" opacity="0.6"/>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f5ed"/>
+      <stop offset="0.5" stop-color="#f1ede3"/>
+      <stop offset="1" stop-color="#e8e2d6"/>
+    </linearGradient>
 
-  <!-- diamond accent -->
-  <rect x="72" y="118" width="22" height="22" fill="#c9a86c" opacity="0.85" transform="rotate(45 83 129)"/>
+    <radialGradient id="edgeTone" cx="50%" cy="44%" r="72%">
+      <stop offset="0.7" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7d7465" stop-opacity="0.11"/>
+    </radialGradient>
 
-  <text x="130" y="150" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="72" fill="#f5f5f5">James Dyer</text>
+    <filter id="paperGrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="4" seed="19" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="
+        0 0 0 0 0.36
+        0 0 0 0 0.33
+        0 0 0 0 0.28
+        0 0 0 0.13 0"/>
+    </filter>
 
-  <text x="132" y="188" font-family="Helvetica, Arial, sans-serif" font-size="17" letter-spacing="2" fill="#c9a86c">SOFTWARE ENGINEER</text>
+    <filter id="pressedRule" x="-10%" y="-300%" width="120%" height="700%">
+      <feDropShadow dx="0" dy="-1" stdDeviation="0.35" flood-color="#9c9385" flood-opacity="0.34"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="0.25" flood-color="#ffffff" flood-opacity="0.9"/>
+    </filter>
+  </defs>
 
-  <text x="132" y="214" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#969696">Backend engineering &#183; Cloud infrastructure &#183; Applied AI</text>
+  <!-- warm cotton-stock paper -->
+  <rect width="1200" height="340" fill="url(#paper)"/>
+  <rect width="1200" height="340" fill="#8c8375" filter="url(#paperGrain)" opacity="0.34"/>
+  <rect width="1200" height="340" fill="url(#edgeTone)"/>
 
-  <line x1="130" y1="228" x2="480" y2="228" stroke="#c9a86c" stroke-width="1" opacity="0.4"/>
+  <!-- faint impressed card edge -->
+  <rect x="24.5" y="24.5" width="1151" height="291" rx="2" fill="none" stroke="#9d9588" stroke-width="1" opacity="0.22"/>
+  <rect x="25.5" y="25.5" width="1149" height="289" rx="2" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.56"/>
+
+  <!-- understated monogram and letterpress rule -->
+  <text x="600" y="68" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="5" fill="#625e57">J · D</text>
+  <line x1="518" y1="88" x2="682" y2="88" stroke="#817b71" stroke-width="0.75" opacity="0.58" filter="url(#pressedRule)"/>
+
+  <!-- paired highlight/shadow layers create a restrained debossed impression -->
+  <text x="600" y="174" text-anchor="middle" font-family="Baskerville, 'Iowan Old Style', 'Palatino Linotype', Georgia, serif" font-size="58" font-weight="400" letter-spacing="8" fill="#ffffff" opacity="0.8">JAMES DYER</text>
+  <text x="600" y="176" text-anchor="middle" font-family="Baskerville, 'Iowan Old Style', 'Palatino Linotype', Georgia, serif" font-size="58" font-weight="400" letter-spacing="8" fill="#9d968a" opacity="0.52">JAMES DYER</text>
+  <text x="600" y="175" text-anchor="middle" font-family="Baskerville, 'Iowan Old Style', 'Palatino Linotype', Georgia, serif" font-size="58" font-weight="400" letter-spacing="8" fill="#3f3c37">JAMES DYER</text>
+
+  <text x="600" y="216" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="5.5" fill="#56524c">SOFTWARE ENGINEER</text>
+
+  <text x="600" y="253" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.25" fill="#777168">BACKEND · FULL-STACK · AI SYSTEMS</text>
+
+  <line x1="470" y1="279" x2="730" y2="279" stroke="#817b71" stroke-width="0.75" opacity="0.42" filter="url(#pressedRule)"/>
+  <text x="600" y="304" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="1.8" fill="#817a70">JAMES-DYER.GITHUB.IO/PORTFOLIO-WEBSITE</text>
 </svg>
